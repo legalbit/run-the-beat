@@ -6,4 +6,4 @@ The graph shows how precisely I adhered to the training target. Obviously I didn
 
 ![](Figure_1.png)
 
-You can find the playlist, the running data and the script here.
+You can find the playlist, the running data and the script here. I got the running data from my [Runalyze](https://runalyze.com/) account.
